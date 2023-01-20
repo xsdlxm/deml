@@ -1,0 +1,62 @@
+{
+  "ElementProperty|MagpieData maximum MendeleevNumber": {
+    "simple": "maxMN",
+    "pretty": "maximum MendeleevNumber"
+  },
+  "AtomicOrbitals|HOMO_character": {
+    "simple": "HOMO",
+    "pretty": "HOMO character"
+  },
+  "BandCenter|band center": {
+    "simple": "BC",
+    "pretty": "band center"
+  },
+  "ElementProperty|MagpieData mode NsValence": {
+    "simple": "modeNsV",
+    "pretty": "mode NsValence"
+  },
+  "ElementProperty|MagpieData avg_dev NValence": {
+    "simple": "adNV",
+    "pretty": "avg_dev NValence"
+  },
+  "YangSolidSolution|Yang delta": {
+    "simple": "YD",
+    "pretty": "Yang delta"
+  },
+  "AtomicOrbitals|gap_AO": {
+    "simple": "AO",
+    "pretty": "gap AtomicOrbitals"
+  },
+  "ElementProperty|MagpieData mean MendeleevNumber": {
+    "simple": "meanMN",
+    "pretty": "mean MendeleevNumber"
+  },
+  "YangSolidSolution|Yang omega": {
+    "simple": "YO",
+    "pretty": "Yang omega"
+  },
+  "ElementProperty|MagpieData range NUnfilled": {
+    "simple": "rNU",
+    "pretty": "range NUnfilled"
+  },
+  "ElementProperty|MagpieData range Electronegativity": {
+    "simple": "rEn",
+    "pretty": "range Electronegativity"
+  },
+  "ElementProperty|MagpieData mean AtomicWeight": {
+    "simple": "meanAW",
+    "pretty": "mean AtomicWeight"
+  },
+  "ValenceOrbital|avg d valence electrons": {
+    "simple": "avgdVE",
+    "pretty": "avg d valence electrons"
+  },
+  "ElementProperty|MagpieData range MendeleevNumber": {
+    "simple": "rMN",
+    "pretty": "range MendeleevNumber"
+  },
+  "ValenceOrbital|frac f valence electrons": {
+    "simple": "Ff",
+    "pretty": "f valence electrons fracion"
+  }
+}

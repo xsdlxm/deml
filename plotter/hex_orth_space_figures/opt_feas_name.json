@@ -1,0 +1,62 @@
+{
+  "ElementProperty|MagpieData mean MendeleevNumber": {
+    "simple": "meanMN",
+    "pretty": "mean MendeleevNumber"
+  },
+  "GlobalSymmetryFeatures|spacegroup_num": {
+    "simple": "SN",
+    "pretty": "spacegroup number"
+  },
+  "ValenceOrbital|avg f valence electrons": {
+    "simple": "Ff",
+    "pretty": "f valence electrons fraction"
+  },
+  "ElementProperty|MagpieData maximum MendeleevNumber": {
+    "simple": "maxMN",
+    "pretty": "maximum MendeleevNumber"
+  },
+  "LatticeConstants|a": {
+    "simple": "La",
+    "pretty": "LatticeConstants a"
+  },
+  "ElementProperty|MagpieData range NsValence": {
+    "simple": "rNsV",
+    "pretty": "range NsValence"
+  },
+  "ElementProperty|MagpieData maximum NdValence": {
+    "simple": "maxNdV",
+    "pretty": "maximum NdValence"
+  },
+  "AtomicOrbitals|gap_AO": {
+    "simple": "AO",
+    "pretty": "gap AtomicOrbitals"
+  },
+  "YangSolidSolution|Yang delta": {
+    "simple": "YD",
+    "pretty": "Yang delta"
+  },
+  "ElementProperty|MagpieData mode NUnfilled": {
+    "simple": "NU",
+    "pretty": "NUnfilled"
+  },
+  "LatticeConstants|c": {
+    "simple": "Lc",
+    "pretty": "LatticeConstants c"
+  },
+  "ElementProperty|MagpieData maximum NUnfilled": {
+    "simple": "maxNU",
+    "pretty": "maximum NUnfilled"
+  },
+  "ValenceOrbital|frac s valence electrons": {
+    "simple": "Fs",
+    "pretty": "s valence electrons fraction"
+  },
+  "AtomicOrbitals|LUMO_element": {
+    "simple": "LUMO",
+    "pretty": "LUMO element"
+  },
+  "ElementProperty|MagpieData range NUnfilled": {
+    "simple": "rNU",
+    "pretty": "range NUnfilled"
+  }
+}

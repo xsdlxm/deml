@@ -1,0 +1,42 @@
+{
+  "ElementProperty|MagpieData minimum MendeleevNumber": {
+    "simple": "minMN",
+    "pretty": "minimum MendeleevNumber"
+  },
+  "ElementProperty|MagpieData maximum MendeleevNumber": {
+    "simple": "maxMN",
+    "pretty": "maximum MendeleevNumber"
+  },
+  "ElementProperty|MagpieData range NfValence": {
+    "simple": "rNfV",
+    "pretty": "range NfValence"
+  },
+  "ElementProperty|MagpieData mean Electronegativity": {
+    "simple": "meanEn",
+    "pretty": "mean Electronegativity"
+  },
+  "YangSolidSolution|Yang delta": {
+    "simple": "YD",
+    "pretty": "Yang delta"
+  },
+  "ValenceOrbital|frac d valence electrons": {
+    "simple": "Fd",
+    "pretty": "d valence electrons fraction"
+  },
+  "ElementProperty|MagpieData avg_dev AtomicWeight": {
+    "simple": "adAW",
+    "pretty": "avg_dev AtomicWeight"
+  },
+  "ElementProperty|MagpieData mean MendeleevNumber": {
+    "simple": "meanMN",
+    "pretty": "mean MendeleevNumber"
+  },
+  "ElementProperty|MagpieData range Electronegativity": {
+    "simple": "rEn",
+    "pretty": "range Electronegativity"
+  },
+  "ElementProperty|MagpieData mean CovalentRadius": {
+    "simple": "meanCR",
+    "pretty": "mean CovalentRadius"
+  }
+}

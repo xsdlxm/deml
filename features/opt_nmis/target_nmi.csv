@@ -1,0 +1,81 @@
+,hull_distance
+AtomicOrbitals|HOMO_character,0.011646687867159012
+AtomicOrbitals|HOMO_element,0.038998641713638406
+AtomicOrbitals|HOMO_energy,0.030698346302642718
+AtomicOrbitals|LUMO_character,0.0021789454594991742
+AtomicOrbitals|LUMO_element,0.04900880775558783
+AtomicOrbitals|LUMO_energy,0.029476365734385244
+AtomicOrbitals|gap_AO,0.01636208912196457
+BandCenter|band center,0.021976452775389586
+ElementProperty|MagpieData minimum MendeleevNumber,0.03959700102895735
+ElementProperty|MagpieData maximum MendeleevNumber,0.05499325726201208
+ElementProperty|MagpieData range MendeleevNumber,0.02092138342041692
+ElementProperty|MagpieData mean MendeleevNumber,0.06869983365813685
+ElementProperty|MagpieData avg_dev MendeleevNumber,0.012929300454762682
+ElementProperty|MagpieData mode MendeleevNumber,0.040821134330364155
+ElementProperty|MagpieData maximum AtomicWeight,0.022369493591697997
+ElementProperty|MagpieData range AtomicWeight,0.023610139322668665
+ElementProperty|MagpieData mean AtomicWeight,0.04321797573589843
+ElementProperty|MagpieData avg_dev AtomicWeight,0.05107706387634594
+ElementProperty|MagpieData maximum CovalentRadius,0.033819238037232136
+ElementProperty|MagpieData range CovalentRadius,0.036541931963951405
+ElementProperty|MagpieData mean CovalentRadius,0.026582453772630535
+ElementProperty|MagpieData avg_dev CovalentRadius,0.022689821805980996
+ElementProperty|MagpieData minimum Electronegativity,0.03623612642901286
+ElementProperty|MagpieData maximum Electronegativity,0.020803944894270704
+ElementProperty|MagpieData range Electronegativity,0.012958850105519209
+ElementProperty|MagpieData mean Electronegativity,0.03350621636966799
+ElementProperty|MagpieData avg_dev Electronegativity,0.01934224809792562
+ElementProperty|MagpieData mode Electronegativity,0.02521354879690859
+ElementProperty|MagpieData minimum NsValence,0.004501913211384456
+ElementProperty|MagpieData range NsValence,0.004550450594107679
+ElementProperty|MagpieData mean NsValence,0.004490922989837085
+ElementProperty|MagpieData avg_dev NsValence,0.0045277189239309205
+ElementProperty|MagpieData mode NsValence,0.0045361542394322454
+ElementProperty|MagpieData maximum NpValence,0.010106100012704572
+ElementProperty|MagpieData range NpValence,0.010135832098877072
+ElementProperty|MagpieData mean NpValence,0.017757431990830803
+ElementProperty|MagpieData avg_dev NpValence,0.01025944945725597
+ElementProperty|MagpieData maximum NdValence,0.010060877502964223
+ElementProperty|MagpieData range NdValence,0.008691985368749917
+ElementProperty|MagpieData mean NdValence,0.04400714062250934
+ElementProperty|MagpieData avg_dev NdValence,0.03724157501270786
+ElementProperty|MagpieData maximum NfValence,0.005815376973382868
+ElementProperty|MagpieData range NfValence,0.005870792081485854
+ElementProperty|MagpieData mean NfValence,0.018008677578973967
+ElementProperty|MagpieData avg_dev NfValence,0.009547158502295188
+ElementProperty|MagpieData maximum NValence,0.056941281241927946
+ElementProperty|MagpieData range NValence,0.05919037020916761
+ElementProperty|MagpieData mean NValence,0.040431478423837056
+ElementProperty|MagpieData avg_dev NValence,0.031552555483377855
+ElementProperty|MagpieData maximum NsUnfilled,0.004473907604171748
+ElementProperty|MagpieData range NsUnfilled,0.004552643382009659
+ElementProperty|MagpieData mean NsUnfilled,0.004520438385842856
+ElementProperty|MagpieData avg_dev NsUnfilled,0.004559115997387786
+ElementProperty|MagpieData mean NpUnfilled,0.01742286580303422
+ElementProperty|MagpieData avg_dev NpUnfilled,0.004921351007709279
+ElementProperty|MagpieData maximum NdUnfilled,0.04868902551749374
+ElementProperty|MagpieData range NdUnfilled,0.04804574468244384
+ElementProperty|MagpieData mean NdUnfilled,0.04522010373353034
+ElementProperty|MagpieData avg_dev NdUnfilled,0.044974755151640435
+ElementProperty|MagpieData minimum NUnfilled,0.04537816687460464
+ElementProperty|MagpieData maximum NUnfilled,0.041622867544934626
+ElementProperty|MagpieData range NUnfilled,0.039813289291484935
+ElementProperty|MagpieData mean NUnfilled,0.052528491288612464
+ElementProperty|MagpieData avg_dev NUnfilled,0.03377222122824651
+ElementProperty|MagpieData mode NUnfilled,0.02488262655807204
+ValenceOrbital|avg s valence electrons,0.00449600201981575
+ValenceOrbital|avg p valence electrons,0.017734048659803037
+ValenceOrbital|avg d valence electrons,0.04427216116703481
+ValenceOrbital|avg f valence electrons,0.018213154909556637
+ValenceOrbital|frac s valence electrons,0.031752918958967834
+ValenceOrbital|frac p valence electrons,0.007424619413357052
+ValenceOrbital|frac d valence electrons,0.01805310852472908
+ValenceOrbital|frac f valence electrons,0.03460111460106055
+YangSolidSolution|Yang omega,0.002220295758432524
+YangSolidSolution|Yang delta,0.04236651532804272
+LatticeConstants|a,0.017943127555244832
+LatticeConstants|b,0.00992541018889085
+LatticeConstants|c,0.019223331861248364
+GlobalSymmetryFeatures|spacegroup_num,0.011852208524259035
+GlobalSymmetryFeatures|crystal_system_int,0.011786729007305872
